@@ -11,4 +11,8 @@ API REST para consultar precios de la gasolina en México
 
 # Instalación
 
-Por practicidad para el desarrollo, se utilizó [Laragon](https://laragon.org/),
+Por practicidad para el desarrollo, se utilizó [Laragon](https://laragon.org/), un paquete de servidor local. No se utilizaron hosts virtuales.
+
+* Clone el repositorio en la ruta pública del servidor web que tenga instalado.
+* Cargue la base de datos, incluída en el directorio raíz del repositorio.
+* Ingrese a [localhost](127.0.0.1)
