@@ -25,7 +25,6 @@ Route::get('/precios',function(){
 
     $precios = json_decode($response->getBody()->getContents())->results;
 
-    
     $data['success'] = false;
     $data['results'] = [];
 
