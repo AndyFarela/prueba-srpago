@@ -86,7 +86,7 @@
 				<div class="profile-social-dtl">
 					<ul class="dtl-social">
 						<li><a href="https://www.facebook.com/andii.farela"><i class="icon nalika-facebook"></i></a></li>
-						<li><a href="wa.link/a7e3mx"><i class="icon nalika-alarm"></i></a></li>
+						<li><a href="https://wa.link/a7e3mx"><i class="icon nalika-alarm"></i></a></li>
                         <li><a href="https://www.linkedin.com/in/lesly-andrea-farela-almogabar-156658140/"><i class="icon nalika-linkedin"></i></a></li>
 					</ul>
 				</div>
