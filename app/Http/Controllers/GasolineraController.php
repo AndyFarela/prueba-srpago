@@ -42,6 +42,6 @@ class GasolineraController extends Controller
             }
         }
     
-        return $data;
+        return $data; 
     }
 }
